@@ -66,7 +66,7 @@ export const metadata: Metadata = {
       "Cursos, materiais e conteúdos para quem quer aprender AutoCAD, Revit, BIM, SketchUp e evoluir na área de arquitetura, engenharia e projetos.",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/images/og-image.webp",
         width: 1200,
         height: 630,
         alt: "Mestre da Arquitetura - Cursos e conteúdos profissionais",
@@ -79,7 +79,7 @@ export const metadata: Metadata = {
     title: "Mestre da Arquitetura | AutoCAD, Revit, BIM e Mais",
     description:
       "Aprenda ferramentas profissionais para arquitetura, engenharia e projetos.",
-    images: ["/og-image.jpg"],
+    images: ["/images/og-image.webp"],
   },
 
   robots: {
